@@ -1,4 +1,4 @@
-namespace Vet_clinic
+namespace VetClinic.Web
 {
     public class Program
     {

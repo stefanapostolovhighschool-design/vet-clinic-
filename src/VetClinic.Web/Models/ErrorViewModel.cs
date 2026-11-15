@@ -1,4 +1,4 @@
-namespace Vet_clinic.Models
+namespace VetClinic.Web.Models
 {
     public class ErrorViewModel
     {

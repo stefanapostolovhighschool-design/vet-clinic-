@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Vet_clinic.Models;
+using VetClinic.Web.Models;
 
-namespace Vet_clinic.Controllers
+namespace VetClinic.Web.Controllers
 {
     public class HomeController : Controller
     {
